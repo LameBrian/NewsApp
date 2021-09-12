@@ -15,7 +15,7 @@ class ArticlePage extends StatelessWidget {
         .format(article.publishedDate);
     return Scaffold(
       appBar: AppBar(
-        title: Text('New York Times News Details'),
+        title: Text(article.title),
       ),
       body: Padding(
         padding: const EdgeInsets.all(8.0),
