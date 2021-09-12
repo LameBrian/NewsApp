@@ -22,5 +22,5 @@ Register for a free API key from <a href="https://developer.nytimes.com/">nytime
 * run app.
 
 ## Note
-This app was only tested on an Android ONLY, due to lack of IOS resources.
+This app was only tested only on an Android Emulator due to lack of IOS resources.
 
