@@ -34,7 +34,7 @@ class _HomePageState extends State<HomePage> {
         backgroundColor: Colors.white,
       ),
 
-      //Now let's call the APi services with futurebuilder wiget
+      //Now let's call the APi services with futurebuilder widget
       body: FutureBuilder(
         future: client.getArticle(),
         builder: (BuildContext context, AsyncSnapshot<List<Result>> snapshot) {

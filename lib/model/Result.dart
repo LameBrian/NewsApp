@@ -2,7 +2,7 @@ import 'package:NewsApp/model/Media.dart';
 import 'package:NewsApp/model/MediaMetadatum.dart';
 import 'package:NewsApp/model/news_model.dart';
 
-class Result extends MediaMetadatum {
+class Result {
   Result({
     this.uri,
     this.url,
