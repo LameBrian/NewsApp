@@ -17,7 +17,7 @@ Register for a free API key from <a href="https://developer.nytimes.com/">nytime
 
 * go to <a href="https://developer.nytimes.com/">nytimes.com</a>
 * Create a free account and get your API key
-* copy and paste the API key in the Constants Directory in **API_KEY.dart** file
+* copy and paste the API key in the services Directory in **API_service.dart** file
   *run command 'flutter pub get' on the terminal to download all dependencies
 * run app.
 
